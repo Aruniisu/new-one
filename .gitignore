@@ -1,0 +1,151 @@
+# ==============================================
+# PYTHON
+# ==============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ==============================================
+# VIRTUAL ENVIRONMENT
+# ==============================================
+venv/
+env/
+ENV/
+.venv
+virtualenv/
+envs/
+pyvenv.cfg
+
+# ==============================================
+# DATABASE
+# ==============================================
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# ==============================================
+# UPLOADS & MEDIA
+# ==============================================
+uploads/
+media/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+*.mp4
+*.mp3
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# ==============================================
+# STREAMLIT
+# ==============================================
+.streamlit/
+.streamlit/secrets.toml
+.streamlit/*.pid
+.streamlit/*.log
+
+# ==============================================
+# ENVIRONMENT VARIABLES
+# ==============================================
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# ==============================================
+# IDE / EDITOR
+# ==============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# ==============================================
+# OS / SYSTEM
+# ==============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.backup
+
+# ==============================================
+# GIT
+# ==============================================
+*.orig
+*.rej
+*.patch
+*.diff
+
+# ==============================================
+# BACKUP FILES
+# ==============================================
+backups/
+*.bak
+*.backup
+*.old
+*.orig
+
+# ==============================================
+# DEPLOYMENT
+# ==============================================
+*.pid
+*.lock
+*.seed
+*.sock
+*.socket
+
+# ==============================================
+# TESTING
+# ==============================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+*.test
+
+# ==============================================
+# MISCELLANEOUS
+# ==============================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+node_modules/
