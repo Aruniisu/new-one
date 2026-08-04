@@ -2125,7 +2125,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown(f"© 2024 {get_text('school_name', lang)} - {get_text('app_title', lang)}")
+    st.markdown(f"© 2026 {get_text('school_name', lang)} - {get_text('app_title', lang)}")
 
 if __name__ == "__main__":
     main()

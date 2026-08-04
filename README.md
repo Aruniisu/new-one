@@ -15,5 +15,5 @@ A comprehensive school management system built with Streamlit and Supabase.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/school-management-system.git
+git clone https://github.com/Aruniisu/new-one.git
 cd school-management-system
